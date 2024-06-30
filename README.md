@@ -29,13 +29,13 @@ iii)install django - py -m pip install Django
 iv)project - python manage.py startproject yuvarajproject
 v)App - py manage.py startapp yuvarajapp
 
-Project Directory (yuvarajproject):
+####Project Directory (yuvarajproject):
 writing neccesary code in setting and url.py
 
 App Directory (yuvarajapp):
 writing neccesary code in model,views,urls,settings.py
 
-Templates:
+#####Templates:
 creating html files namely studetails.html and home.html.
 
 File structure:
@@ -62,14 +62,14 @@ creoproject/
 ├── manage.py
 ├── db.sqlite3
 
-Apply mitigation:
+######Apply mitigation:
 python manage.py makemigrations
 python manage.py migrate
 
 Run the development server:
 python manage.py runserver
 
-Access the application:
+#######Access the application:
 Open your web browser and go to http://127.0.0.1:8000/.
 
 Usage:

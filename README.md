@@ -81,7 +81,7 @@ Add new students by filling in their details (Name, Age, Email, City, and Image)
 
 
 Viewing Student Details:
-Go to http://127.0.0.1:8000/student/<id>/, where <id> is the student's ID.
+Go to http://127.0.0.1:8000/student/id/, where id is the student's ID.
 View the student's details and their subject marks on the page.
 
 

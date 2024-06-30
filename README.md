@@ -87,6 +87,18 @@ Go to http://127.0.0.1:8000/student/id/, where id is the student's ID.
 View the student's details and their subject marks on the page.
 
 
+output:
+![Screenshot (411)](https://github.com/yuvarajan-88/creoproject/assets/174254156/b6869713-1bfe-4091-90f3-8354066340e9)
+![Screenshot (412)](https://github.com/yuvarajan-88/creoproject/assets/174254156/f9ed6f76-2d05-45e2-b237-3f0b57d137c2)
+![Screenshot (413)](https://github.com/yuvarajan-88/creoproject/assets/174254156/ea951c17-5199-49e2-9879-72b42a826cd1)
+![Screenshot (414)](https://github.com/yuvarajan-88/creoproject/assets/174254156/bb968e26-1be1-4139-a453-5907376f20a2)
+![Screenshot (415)](https://github.com/yuvarajan-88/creoproject/assets/174254156/3e9207e3-1c15-45b8-b756-ebdac46f4e3e)
+![Screenshot (416)](https://github.com/yuvarajan-88/creoproject/assets/174254156/45646078-1589-4a22-8c4d-5f0788ed47a6)
+![Screenshot (417)](https://github.com/yuvarajan-88/creoproject/assets/174254156/3ae83930-773d-4671-a0fb-940f41a5b9d9)
+![Screenshot (418)](https://github.com/yuvarajan-88/creoproject/assets/174254156/ebafed34-792e-470a-bd1f-7ff756081150)
+
+
+
 
 
 
